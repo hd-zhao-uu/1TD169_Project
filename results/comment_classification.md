@@ -20,6 +20,7 @@ Each processor will handle 250,000 JSON objects, 3GiB memory each core.
 | 1,000,000   | 4        |    200.67s   |
 | 2,000,000   | 8        |    179.45s   |
 
+Each processor will handle 500,000 JSON objects, 3GiB memory each core
 | Data Size   |  Cores   | Time  |
 |  ----       |  ----    | ----  |
 |   500,000   | 1        |    360.279s   |
